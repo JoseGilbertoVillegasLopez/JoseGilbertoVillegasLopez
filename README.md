@@ -45,35 +45,8 @@
 | --- | --- |
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGilbertoVillegasLopez&theme=tokyo-night&hide_border=false&radius=12" height="220" /> | <img src="https://streak-stats.demolab.com?user=JoseGilbertoVillegasLopez&theme=tokyonight&hide_border=false&border_radius=12" height="220" /> |
 
-
-
-
-
-
-
-<h3>📫 Contact</h3>
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jose-gilberto-villegas-lopez" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Email -->
-  <a href="mailto:josegibertov2@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5212297361455" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/whatsapp.png" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- CV -->
-  <a href="https://github.com/JoseGilbertoVillegasLopez/JoseGilbertoVillegasLopez/raw/main/CV_JoseGilberto.pdf" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/resume.png" alt="CV"/>
-  </a>
-</p>
-
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-gilberto-villegas-lopez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josegibertov2@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5212297361455)
+[![CV](https://img.shields.io/badge/CV-PDF-orange?style=flat&logo=adobeacrobatreader)](https://github.com/JoseGilbertoVillegasLopez/JoseGilbertoVillegasLopez/raw/main/CV_JoseGilberto.pdf)
