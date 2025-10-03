@@ -16,12 +16,11 @@
 
 <!-- stac de tecnologias-->
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)\
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
@@ -34,21 +33,47 @@
 
 
 
+### 📊 Stats
+
+| Most Used Languages | GitHub Stats |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGilbertoVillegasLopez&layout=compact&langs_count=8&card_width=420&hide_border=false&border_radius=12&bg_color=0,000000,130F40&title_color=7A7ADB&text_color=D3D3D3" height="220"/> | <img src="https://github-readme-stats.vercel.app/api?username=JoseGilbertoVillegasLopez&include_all_commits=true&count_private=true&show_icons=true&line_height=24&hide_border=false&border_radius=12&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="220"/> |
+
+<!--Contribuciones-->
+### 📈 Contributions
+| Activity Graph | Streak |
+| --- | --- |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGilbertoVillegasLopez&theme=tokyo-night&hide_border=false&radius=12" height="220" /> | <img src="https://streak-stats.demolab.com?user=JoseGilbertoVillegasLopez&theme=tokyonight&hide_border=false&border_radius=12" height="220" /> |
 
 
-<!--stacs de lenguages en los repositorios-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGilbertoVillegasLopez&show_icons=true&theme=dark&locale=en&layout=compact" alt="Jose Gilberto Vilegas Lopez" /></p>
-<!--stats de github, numero de commits, contribuciones, ect -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseGilbertoVillegasLopez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JoseGilbertoVillegasLopez's Github Stats">
 
 
-<!-- contacto-->
+
+
+
+<h3>📫 Contact</h3>
 <p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jose-gilberto-villegas-lopez" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/
-josé-gilberto-villegas-lopez/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-      </div>
+  <!-- Email -->
+  <a href="mailto:josegibertov2@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
 
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5212297361455" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- CV -->
+  <a href="https://github.com/JoseGilbertoVillegasLopez/JoseGilbertoVillegasLopez/raw/main/CV_JoseGilberto.pdf" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/resume.png" alt="CV"/>
+  </a>
 </p>
+
