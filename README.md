@@ -37,13 +37,13 @@
 
 | Most Used Languages | GitHub Stats |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGilbertoVillegasLopez&layout=compact&langs_count=8&card_width=420&hide_border=false&border_radius=12&bg_color=0,000000,130F40&title_color=7A7ADB&text_color=D3D3D3" height="220"/> | <img src="https://github-readme-stats.vercel.app/api?username=JoseGilbertoVillegasLopez&include_all_commits=true&count_private=true&show_icons=true&line_height=24&hide_border=false&border_radius=12&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="220"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGilbertoVillegasLopez&layout=compact&langs_count=8&card_width=420&hide_border=false&border_radius=12&bg_color=0,000000,130F40&title_color=7A7ADB&text_color=D3D3D3&cache_seconds=3600" height="220"/> | <img src="https://github-readme-stats.vercel.app/api?username=JoseGilbertoVillegasLopez&include_all_commits=true&count_private=true&show_icons=true&line_height=24&hide_border=false&border_radius=12&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=3600" height="220"/> |
 
 <!--Contribuciones-->
 ### 📈 Contributions
 | Activity Graph | Streak |
 | --- | --- |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGilbertoVillegasLopez&theme=tokyo-night&hide_border=false&radius=12" height="220" /> | <img src="https://streak-stats.demolab.com?user=JoseGilbertoVillegasLopez&theme=tokyonight&hide_border=false&border_radius=12" height="220" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGilbertoVillegasLopez&theme=tokyo-night&hide_border=false&radius=12&cache_seconds=3600" height="220" /> | <img src="https://streak-stats.demolab.com?user=JoseGilbertoVillegasLopez&theme=tokyonight&hide_border=false&border_radius=12" height="220" /> |
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-gilberto-villegas-lopez)
